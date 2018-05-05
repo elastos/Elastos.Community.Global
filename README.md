@@ -17,6 +17,8 @@
 
 ### 🇨🇿 &nbsp; [Czech Republic](Czech-Republic/README.md)
 
+### 🇭🇺 &nbsp; [Hungary](Hungary/README.md)
+
 ### 🇮🇳 &nbsp; [India](India/README.md)
 
 ### 🇬🇧 &nbsp; UK
