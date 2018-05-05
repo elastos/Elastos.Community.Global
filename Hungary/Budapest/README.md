@@ -1,4 +1,4 @@
-# 🇭🇺 &nbsp; Hungary 
+# 🇭🇺 &nbsp; Budapest 
 
 This is a community for people who love Elastos and speak Hungarian. 
 
