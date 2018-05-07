@@ -1,4 +1,4 @@
-![Elastos](https://avatars1.githubusercontent.com/u/11608578?s=100&v=4) 
+![Elastos](https://avatars1.githubusercontent.com/u/11608578?s=100&v=4)
 # Elastos Developer Community
 &nbsp;
 ## Highlights
@@ -28,3 +28,6 @@
 ### 🇺🇸 &nbsp; USA
 - [San Francisco](USA/SF.md)
 - [Washington](USA/WASHINGTON.md)
+
+### vn &nbsp; VIETNAM
+- [Ha Noi](VIETNAM/HANOI.md)
