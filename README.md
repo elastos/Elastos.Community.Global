@@ -29,5 +29,5 @@
 - [San Francisco](USA/SF.md)
 - [Washington](USA/WASHINGTON.md)
 
-### vn &nbsp; VIETNAM
+### 🇻🇳 &nbsp; VIETNAM
 - [Ha Noi](VIETNAM/HANOI.md)
