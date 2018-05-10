@@ -10,3 +10,5 @@ This is a community for people who love Elastos and speak Hungarian.
 *Contact details:*
 
 Telegram: [t.me/elastosbudapest](https://t.me/elastosbudapest)
+
+Twitter: [@ElastosB](https://twitter.com/ElastosB)
