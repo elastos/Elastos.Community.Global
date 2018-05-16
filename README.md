@@ -1,4 +1,4 @@
-![Elastos](https://avatars1.githubusercontent.com/u/11608578?s=100&v=4) 
+![Elastos](https://avatars1.githubusercontent.com/u/11608578?s=100&v=4)
 # Elastos Developer Community
 &nbsp;
 ## Highlights
@@ -15,8 +15,12 @@
 - [Beijing](China/BEIJING.md)
 - [Shangai](China/SHANGAI.md)
 - [GuangZhou](China/GUANGZHOU.md)
+- [hangzhou](China/HANGZHOU.md)
 
 ### 🇨🇿 &nbsp; [Czech Republic](Czech-Republic/README.md)
+
+### 🇭🇺 &nbsp; Hungary
+- [Budapest](Hungary/Budapest/README.md)
 
 ### 🇮🇳 &nbsp; [India](India/README.md)
 
@@ -26,3 +30,8 @@
 ### 🇺🇸 &nbsp; USA
 - [San Francisco](USA/SF.md)
 - [Washington](USA/WASHINGTON.md)
+- [SEATTLE](USA/SEATTLE.md)
+
+### 🇻🇳 &nbsp; VIETNAM
+- [Ha Noi](VIETNAM/HANOI.md)
+
