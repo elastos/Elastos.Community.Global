@@ -28,6 +28,7 @@
 ### 🇺🇸 &nbsp; USA
 - [San Francisco](USA/SF.md)
 - [Washington](USA/WASHINGTON.md)
+- [SEATTLE](USA/SEATTLE.md)
 
 ### 🇻🇳 &nbsp; VIETNAM
 - [Ha Noi](VIETNAM/HANOI.md)
