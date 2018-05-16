@@ -14,6 +14,7 @@
 ### 🇨🇳 &nbsp; China
 - [Beijing](China/BEIJING.md)
 - [Shangai](China/SHANGAI.md)
+- [GuangZhou](China/GUANGZHOU.md)
 - [hangzhou](China/HANGZHOU.md)
 
 ### 🇨🇿 &nbsp; [Czech Republic](Czech-Republic/README.md)
@@ -33,3 +34,4 @@
 
 ### 🇻🇳 &nbsp; VIETNAM
 - [Ha Noi](VIETNAM/HANOI.md)
+
