@@ -15,12 +15,12 @@
 - [Beijing](China/BEIJING.md)
 - [Shangai](China/SHANGAI.md)
 - [GuangZhou](China/GUANGZHOU.md)
-- [hangzhou](China/HANGZHOU.md)
+- [Hangzhou](China/HANGZHOU.md)
 
 ### 🇨🇿 &nbsp; [Czech Republic](Czech-Republic/README.md)
 
 ### 🇭🇺 &nbsp; Hungary
-- [Budapest](Hungary/Budapest/README.md)
+- [Budapest](Hungary/BUDAPEST.md)
 
 ### 🇮🇳 &nbsp; [India](India/README.md)
 
@@ -30,8 +30,8 @@
 ### 🇺🇸 &nbsp; USA
 - [San Francisco](USA/SF.md)
 - [Washington](USA/WASHINGTON.md)
-- [SEATTLE](USA/SEATTLE.md)
+- [Seattle](USA/SEATTLE.md)
 
-### 🇻🇳 &nbsp; VIETNAM
-- [Ha Noi](VIETNAM/HANOI.md)
+### 🇻🇳 &nbsp; Vietnam
+- [Ha Noi](Vietnam/HANOI.md)
 
