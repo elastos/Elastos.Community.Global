@@ -13,9 +13,11 @@
 
 ### 🇨🇳 &nbsp; China
 - [Beijing](China/BEIJING.md)
-- [Shangai](China/SHANGAI.md)
+- [DaLian](China/DALIAN.md)
 - [GuangZhou](China/GUANGZHOU.md)
 - [Hangzhou](China/HANGZHOU.md)
+- [Shangai](China/SHANGAI.md)
+- [Shijiazhuang](China/SHIJIAZHUANG.md)
 - [Xian](China/XIAN.md)
 
 ### 🇨🇿 &nbsp; [Czech Republic](Czech-Republic/README.md)
@@ -30,8 +32,8 @@
 
 ### 🇺🇸 &nbsp; USA
 - [San Francisco](USA/SF.md)
-- [Washington](USA/WASHINGTON.md)
 - [Seattle](USA/SEATTLE.md)
+- [Washington](USA/WASHINGTON.md)
 
 ### 🇻🇳 &nbsp; Vietnam
 - [Ha Noi](Vietnam/HANOI.md)
