@@ -16,6 +16,7 @@
 - [Shangai](China/SHANGAI.md)
 - [GuangZhou](China/GUANGZHOU.md)
 - [Hangzhou](China/HANGZHOU.md)
+- [Xian](China/XIAN.md)
 
 ### 🇨🇿 &nbsp; [Czech Republic](Czech-Republic/README.md)
 
