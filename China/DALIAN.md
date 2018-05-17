@@ -6,5 +6,5 @@ Hey, guys
 Get more people support Elastos, know Elastos.  
     we can analyzing the Elastos code together, create Elastos Dapp, make it better as an open-source community. join us.
     
-welcome to contact me with wechat - 36890110
+welcome to contact me with wechat - 36890110.
 Jacky.li
