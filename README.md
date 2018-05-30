@@ -27,6 +27,8 @@
 
 ### 🇮🇳 &nbsp; [India](India/README.md)
 
+### 🇲🇾 &nbsp; [Malaysia](Malaysia/README.md)
+
 ### 🇬🇧 &nbsp; UK
 - [London](UK/LONDON.md)
 
