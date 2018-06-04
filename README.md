@@ -20,6 +20,8 @@
 - [Shijiazhuang](China/SHIJIAZHUANG.md)
 - [Xian](China/XIAN.md)
 
+### 🇨🇴 &nbsp; [Colombia](Colombia/README.md)
+
 ### 🇨🇿 &nbsp; [Czech Republic](Czech-Republic/README.md)
 
 ### 🇭🇺 &nbsp; Hungary
