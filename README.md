@@ -31,8 +31,8 @@
 
 ### 🇲🇾 &nbsp; [Malaysia](Malaysia/README.md)
 
-### 🇪🇸 &nbsp; SPAIN
-- [Bilbao](SPAIN/BILBAO.md)
+### 🇪🇸 &nbsp; Spain
+- [Bilbao](Spain/BILBAO.md)
 
 ### 🇬🇧 &nbsp; UK
 - [London](UK/LONDON.md)
