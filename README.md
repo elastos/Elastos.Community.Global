@@ -20,12 +20,19 @@
 - [Shijiazhuang](China/SHIJIAZHUANG.md)
 - [Xian](China/XIAN.md)
 
+### 🇨🇴 &nbsp; [Colombia](Colombia/README.md)
+
 ### 🇨🇿 &nbsp; [Czech Republic](Czech-Republic/README.md)
 
 ### 🇭🇺 &nbsp; Hungary
 - [Budapest](Hungary/BUDAPEST.md)
 
 ### 🇮🇳 &nbsp; [India](India/README.md)
+
+### 🇲🇾 &nbsp; [Malaysia](Malaysia/README.md)
+
+### 🇪🇸 &nbsp; SPAIN
+- [Bilbao](SPAIN/BILBAO.md)
 
 ### 🇬🇧 &nbsp; UK
 - [London](UK/LONDON.md)
