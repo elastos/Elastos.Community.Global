@@ -22,4 +22,4 @@ Aldo Villamil (Bogota,Ibague)
 
 https://www.facebook.com/86BlockChain
 
-https://discord.gg/9RfvFn
+https://discord.gg/5Q72Tm
