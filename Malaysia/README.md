@@ -11,6 +11,6 @@ Ricky
 <hr /> 
 
 *Contact Details*
-- Email: rickychea11 <At> gmail.com 
+- Email: rickychea11 @ gmail.com 
 - Website: [MobileOOP.com](http://mobileoop.com/)
-- Telegram: @ksghc
+- Telegram: @rickyela
