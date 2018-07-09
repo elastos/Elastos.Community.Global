@@ -19,6 +19,7 @@
 - [Shangai](China/SHANGAI.md)
 - [Shijiazhuang](China/SHIJIAZHUANG.md)
 - [Xian](China/XIAN.md)
+- [Shenzhen](China/SHENZHEN.md)
 
 ### 🇨🇴 &nbsp; [Colombia](Colombia/README.md)
 
