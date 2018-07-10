@@ -60,7 +60,7 @@ Aug 24
 - 13:00 CyberRepublic brainstorming
 - 15:00 Coffee break
 - 15:10 CyberRepublic Ideas competition - Elastos Idea World Cup
-- 17:00 World Cup winner award
+- 17:00 Meet the rounders and World Cup winner award. by Rong, Heng, Yipeng, Kevin etc.
 - 18:00 Wrap up and dinner
 
 Aug 25
