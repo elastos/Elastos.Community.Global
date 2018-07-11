@@ -16,6 +16,7 @@ Hotel name unconfired yet
 
 Aug 21 
 - full day Check in hotel
+
 Aug 22 
 - 8:00 Breakfast in hotel
 - 9:00 Welcome session. Introduction. Host Kevin Zhang
@@ -67,6 +68,7 @@ Aug 25
 - Morning Elastos Anniversary ceremony
 - Afternoon Elastos Ecosystem Showcase
 - Evening CyberRepublic online zoom meeting to Europe
+
 Aug 26
 - Morning CyberRepublic online zoom meeting to America
 - Tour
