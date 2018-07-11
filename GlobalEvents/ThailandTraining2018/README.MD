@@ -73,4 +73,5 @@ Aug 26
 - Check out
 
 # Preparing Material
-# 
+
+# Logistic
