@@ -71,7 +71,10 @@ Evening CyberRepublic online zoom meeting to Europe
 # Aug 26  
 Morning CyberRepublic online zoom meeting to America  
 Tour  
-Check out  
+Team building TBD  
+
+# Aug 27
+Check out
 
 # Preparing Material
 
