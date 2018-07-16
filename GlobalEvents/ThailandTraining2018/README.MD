@@ -15,11 +15,9 @@ Hotel name unconfired yet
 # Agenda
 
 # Aug 21 
-
 full day Check in hotel  
 
 # Aug 22
-
 8:00 Breakfast in hotel  
 9:00 Welcome session. Introduction. Host Kevin Zhang  
 9:30 Elastos overview by KP Woods  
@@ -34,7 +32,6 @@ full day Check in hotel
 18:00 Wrap up and dinner  
 
 # Aug 23
-
 8:00 Breakfast in hotel  
 9:00 Elastos Blockchain Review and Today's agenda. Host Kevin Zhang  
 9:30 Token economy and digital assets by Kevin Zhang  
@@ -50,8 +47,7 @@ full day Check in hotel
 16:30 Trainee presentation practice. Trainee will explain Elastos based on what he learnt this day.  
 18:00 Wrap up and dinner  
 
-#Aug 24
-
+# Aug 24
 8:00 Breakfast in hotel  
 9:00 Last day Review and Today's agenda. Host Kevin Zhang
 9:30 Elastos Carrier by Jingyu Niu  
