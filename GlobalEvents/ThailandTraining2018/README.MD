@@ -49,7 +49,7 @@ full day Check in hotel
 
 # Aug 24
 8:00 Breakfast in hotel  
-9:00 Last day Review and Today's agenda. Host Kevin Zhang
+9:00 Last day Review and Today's agenda. Host Kevin Zhang  
 9:30 Elastos Carrier by Jingyu Niu  
 10:30 Coffee break  
 10:45 Workshoo (Carrier demo, chat demo hands on)  
