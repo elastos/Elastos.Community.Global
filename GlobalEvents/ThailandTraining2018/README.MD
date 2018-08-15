@@ -11,10 +11,14 @@ Aug 25 Elastos First Anniversary, CyberRepublic online meetup 1
 Aug 26 CyberRepublic online meetup2. Tour. Check out    
 # Venue
 
-Hotel E-outfitting Doikham resort
+Hotel Name: E-outfitting Doikham resort
+
 Address：233/11 Mahidol Rd., T.Changklan, A.Muang Doikham 50100 Chiang Mai Thailand
+
 Hotel Telephone： +66（0）53 282 434
+
 Lunch at E-outfitting  Doikham restaurant  
+
 # Agenda
 
 # Aug 21 
