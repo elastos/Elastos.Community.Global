@@ -50,7 +50,7 @@ Full day Check in hotel
 14:00 Workshop (Chain browser, wallet hands on etc)  
 15:00 Coffee break  
 15:10 Elastos chain vs other chains by Shunan Yu,Rebecca Zhu,Alex Pan  
-16:00 Q&A  
+16:00 Merged Mining  
 16:30 Trainee presentation practice. Trainee will explain Elastos based on what tjeu learnt this day.  
 18:00 Wrap up and dinner  
 
